@@ -1,10 +1,12 @@
 # GPS-Project
 This is my project for the "Graphical Processing Systems" laboratory.
 
+<p align="center"> <img src="Img/PaulLinca.png" /> </p>
+
 **Subject**<br/>
 The subject of the project consists in the photorealistic presentation of 3D using the **OpenGL** library. Through the graphical interface, the user should be able to control and visualize the scene using the keyboard and mouse as well as opt for an automated view of the scene.
 
-<p align="center"> <img src="Img/PaulLinca.png" /> </p>
+
 
 
 **Scenario**<br/>
